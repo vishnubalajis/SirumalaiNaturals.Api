@@ -49,6 +49,7 @@
 /home/dell/Downloads/sirumalai-starter/sirumalai-naturals/backend/SirumalaiNaturals.Api/obj/Debug/net10.0/SirumalaiNaturals.Api.csproj.CoreCompileInputs.cache
 /home/dell/Downloads/sirumalai-starter/sirumalai-naturals/backend/SirumalaiNaturals.Api/obj/Debug/net10.0/SirumalaiNaturals.Api.MvcApplicationPartsAssemblyInfo.cs
 /home/dell/Downloads/sirumalai-starter/sirumalai-naturals/backend/SirumalaiNaturals.Api/obj/Debug/net10.0/SirumalaiNaturals.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/dell/Downloads/sirumalai-starter/sirumalai-naturals/backend/SirumalaiNaturals.Api/obj/Debug/net10.0/SirumalaiNaturals.Api.sourcelink.json
 /home/dell/Downloads/sirumalai-starter/sirumalai-naturals/backend/SirumalaiNaturals.Api/obj/Debug/net10.0/rjimswa.dswa.cache.json
 /home/dell/Downloads/sirumalai-starter/sirumalai-naturals/backend/SirumalaiNaturals.Api/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
 /home/dell/Downloads/sirumalai-starter/sirumalai-naturals/backend/SirumalaiNaturals.Api/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json

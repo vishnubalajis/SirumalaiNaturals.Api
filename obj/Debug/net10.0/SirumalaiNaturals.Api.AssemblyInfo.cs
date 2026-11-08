@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SirumalaiNaturals.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d38e915805334be22ea8f5ff9afd852ce68db2b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SirumalaiNaturals.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SirumalaiNaturals.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
